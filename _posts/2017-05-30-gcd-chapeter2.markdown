@@ -4,6 +4,7 @@ title: gcd-chapeter2
 categories: novel
 date: 2017-05-30
 ---
+<img src="/images/fulls/hqdefault.jpg" class="fit image">
 Wei WuXian received a kick just as he opened his eyes.
 
 A voice thundered beside his ear, “Stop playing dead!”

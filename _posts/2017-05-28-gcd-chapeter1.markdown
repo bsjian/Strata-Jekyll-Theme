@@ -4,6 +4,7 @@ title: gcd-chapeter1
 categories: novel
 date: 2017-05-28
 ---
+<img src="/images/fulls/md2.jpg" class="fit image">
 “Great news! Wei WuXian has died!”
 
 Less than a day has passed since the siege in LuanZang Hill, and the news spreads through the cultivation world as if it sprouted wings, surpassing even the speed of warfare.

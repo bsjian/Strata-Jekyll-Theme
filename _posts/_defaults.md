@@ -1,9 +1,6 @@
 ---
 layout: post
-title: A trip to North-West China
-categories: travel
-date: 2014-07-16
+title:
+categories:
+date:
 ---
-<img src="/images/fulls/chaka.jpg" class="fit image">
-Qinghai Lake.
-

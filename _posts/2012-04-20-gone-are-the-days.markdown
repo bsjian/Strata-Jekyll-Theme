@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [转]我所思念的日子已经黄昏
+title: 我所思念的日子已经黄昏
 categories: essays
 date: 2012-04-20
 ---

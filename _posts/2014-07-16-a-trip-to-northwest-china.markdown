@@ -5,5 +5,5 @@ categories: travel
 date: 2014-07-16
 ---
 <img src="/images/fulls/chaka.jpg" class="fit image">
-Qinghai Lake.
+Chaka Lake.
 

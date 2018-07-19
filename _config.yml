@@ -1,7 +1,7 @@
 locale: "en-US"
 title: Bosheng # Title of your site
-url: "https://bsjian.github.io/bosheng_webpage" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://bsjian.github.io" # the base hostname & protocol for your site
+baseurl: "/bosheng_webpage" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
